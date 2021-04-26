@@ -1,0 +1,23 @@
+{
+    "name": "lic/hello-composer",
+    "description": "hola mundo composer prueba",
+    "authors": [
+        {
+            "name": "Oriana",
+            "email": "oriana@prueba.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "lic\\hello\\":"src/"
+        }
+    },
+
+    "repositories": [
+        {
+          "type": "path",
+          "url": "PAQUETE-HOLAMUNDO"
+        }
+    ]
+}
