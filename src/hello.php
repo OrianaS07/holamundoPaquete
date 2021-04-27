@@ -1,6 +1,6 @@
 <?php
 
-namespace lic\hello;
+namespace ori\hello;
 
 class Hello
 {

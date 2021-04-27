@@ -1,5 +1,5 @@
 {
-    "name": "lic/prueba-paquete",
+    "name": "ori/prueba-paquete",
     "description": "hola mundo composer prueba",
     "authors": [
         {
@@ -10,7 +10,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "lic\\hello\\":"src/"
+            "ori\\hello\\":"src/"
         }
     },
 

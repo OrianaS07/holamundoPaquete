@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'lic\\hello\\' => array($baseDir . '/src'),
+    'ori\\hello\\' => array($baseDir . '/src'),
 );
